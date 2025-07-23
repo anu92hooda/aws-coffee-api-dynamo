@@ -24,7 +24,7 @@ This is a real-world cloud-based backend API project where I built everything fr
 
 ### 📦 Sample Payload for POST
 
-```json
+**json**
 {
   "shop_name": "Aroma1",
   "coffees_available": ["Espresso", "Latte", "Americano"],
