@@ -34,14 +34,14 @@ This is a real-world cloud-based backend API project where I built everything fr
 
 ---
 
-###  🛠 Deployment Details (Manual AWS Setup)
+### 🚀 Deployment Details (Manual AWS Setup)
+
 This was done without using any frameworks like Serverless, SAM, or Zappa.
 
-Steps:
-
-Created a virtual environment and installed dependencies
-Bundled app code + dependencies into a zip file
-Created a Lambda function and uploaded the zip
-Set up API Gateway manually with Lambda Proxy Integration
-Created the DynamoDB table and attached IAM role with proper permissions
-Enabled CloudWatch logs to debug requests
+**Steps:**
+- Created a virtual environment and installed dependencies  
+- Bundled app code + dependencies into a zip file  
+- Created a Lambda function and uploaded the zip  
+- Set up API Gateway manually with Lambda Proxy Integration  
+- Created the DynamoDB table and attached IAM role with proper permissions  
+- Enabled CloudWatch logs to debug requests 
