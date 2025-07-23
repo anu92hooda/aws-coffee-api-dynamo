@@ -32,7 +32,7 @@ This is a real-world cloud-based backend API project where I built everything fr
   "rating": 3.9
 }
 
----
+
 
 ### 🚀 Deployment Details (Manual AWS Setup)
 
