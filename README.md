@@ -18,7 +18,7 @@ This is a real-world cloud-based backend API project where I built everything fr
 
 - `GET /get_coffeeshop` → Get details of one or all coffee shops  
 - `POST /add_coffeeshop` → Add a new coffee shop  
-- `DELETE /delete_coffeeshop` → Delete a shop by name  
+- `DELETE /delete_coffeeshop` → Delete a shop by name 
 
 ---
 
